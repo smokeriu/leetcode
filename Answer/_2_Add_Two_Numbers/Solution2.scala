@@ -1,5 +1,7 @@
 package _2_Add_Two_Numbers
 
+import _445_Add_Two_Numbers_II.ListNode
+
 object Solution2 {
   def addTwoNumbers(l1: ListNode, l2: ListNode): ListNode = {
     def add(l1: ListNode, l2: ListNode, addBit: Int, prev: ListNode): Unit = {
