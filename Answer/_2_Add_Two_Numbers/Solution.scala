@@ -1,6 +1,6 @@
 package _2_Add_Two_Numbers
 
-import _445_Add_Two_Numbers_II.ListNode
+
 
 object Solution {
   def addTwoNumbers( _l1: ListNode, _l2: ListNode): ListNode = {
