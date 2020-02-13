@@ -3,6 +3,22 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[121]买卖股票的最佳时机.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[121]买卖股票的最佳时机.scala" />
+              <option name="questionId" value="121" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[21]合并两个有序链表.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[21]合并两个有序链表.scala" />
+              <option name="questionId" value="21" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[445]两数相加 II.scala">
           <value>
             <LeetcodeEditor>
