@@ -19,6 +19,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[108]将有序数组转换为二叉搜索树.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[108]将有序数组转换为二叉搜索树.scala" />
+              <option name="questionId" value="108" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[111]二叉树的最小深度.scala">
           <value>
             <LeetcodeEditor>
@@ -155,11 +163,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[230]二叉搜索树中第K小的元素.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[230]二叉搜索树中第K小的元素.scala" />
+              <option name="questionId" value="230" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[234]回文链表.scala">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[234]回文链表.scala" />
               <option name="questionId" value="234" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.scala" />
+              <option name="questionId" value="235" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -235,6 +259,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[450]删除二叉搜索树中的节点.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[450]删除二叉搜索树中的节点.scala" />
+              <option name="questionId" value="450" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[61]旋转链表.scala">
           <value>
             <LeetcodeEditor>
@@ -256,6 +288,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.scala" />
               <option name="questionId" value="82" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[98]验证二叉搜索树.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[98]验证二叉搜索树.scala" />
+              <option name="questionId" value="98" />
             </LeetcodeEditor>
           </value>
         </entry>
