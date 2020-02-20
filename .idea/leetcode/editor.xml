@@ -67,6 +67,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[131]分割回文串.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[131]分割回文串.scala" />
+              <option name="questionId" value="131" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[143]重排链表.scala">
           <value>
             <LeetcodeEditor>
@@ -112,6 +120,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[150]逆波兰表达式求值.scala" />
               <option name="questionId" value="150" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[17]电话号码的字母组合.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[17]电话号码的字母组合.scala" />
+              <option name="questionId" value="17" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -288,6 +304,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.scala" />
               <option name="questionId" value="82" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[93]复原IP地址.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[93]复原IP地址.scala" />
+              <option name="questionId" value="93" />
             </LeetcodeEditor>
           </value>
         </entry>
