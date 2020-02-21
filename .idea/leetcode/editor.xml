@@ -155,6 +155,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[216]组合总和 III.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[216]组合总和 III.scala" />
+              <option name="questionId" value="216" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[21]合并两个有序链表.scala">
           <value>
             <LeetcodeEditor>
@@ -251,11 +259,35 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[39]组合总和.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[39]组合总和.scala" />
+              <option name="questionId" value="39" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[401]二进制手表.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[401]二进制手表.scala" />
+              <option name="questionId" value="401" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[404]左叶子之和.scala">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[404]左叶子之和.scala" />
               <option name="questionId" value="404" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[40]组合总和 II.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[40]组合总和 II.scala" />
+              <option name="questionId" value="40" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -283,6 +315,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[46]全排列.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[46]全排列.scala" />
+              <option name="questionId" value="46" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[47]全排列 II.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[47]全排列 II.scala" />
+              <option name="questionId" value="47" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[61]旋转链表.scala">
           <value>
             <LeetcodeEditor>
@@ -299,11 +347,35 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[77]组合.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[77]组合.scala" />
+              <option name="questionId" value="77" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[78]子集.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[78]子集.scala" />
+              <option name="questionId" value="78" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.scala">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.scala" />
               <option name="questionId" value="82" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[90]子集 II.scala">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/leetcode/editor/cn/[90]子集 II.scala" />
+              <option name="questionId" value="90" />
             </LeetcodeEditor>
           </value>
         </entry>
